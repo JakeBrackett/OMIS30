@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		16D6BAFC19E10C1A00CB20BA /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 16D6BAFB19E10C1A00CB20BA /* main.c */; };
+		16D6BB0319E10DBA00CB20BA /* JBRACKETT_HOMEWORK_1_1.c in Sources */ = {isa = PBXBuildFile; fileRef = 16D6BB0219E10DBA00CB20BA /* JBRACKETT_HOMEWORK_1_1.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		16D6BAF819E10C1A00CB20BA /* OMIS30 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = OMIS30; sourceTree = BUILT_PRODUCTS_DIR; };
-		16D6BAFB19E10C1A00CB20BA /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		16D6BB0219E10DBA00CB20BA /* JBRACKETT_HOMEWORK_1_1.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = JBRACKETT_HOMEWORK_1_1.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +57,7 @@
 		16D6BAFA19E10C1A00CB20BA /* OMIS30 */ = {
 			isa = PBXGroup;
 			children = (
-				16D6BAFB19E10C1A00CB20BA /* main.c */,
+				16D6BB0219E10DBA00CB20BA /* JBRACKETT_HOMEWORK_1_1.c */,
 			);
 			path = OMIS30;
 			sourceTree = "<group>";
@@ -118,7 +118,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				16D6BAFC19E10C1A00CB20BA /* main.c in Sources */,
+				16D6BB0319E10DBA00CB20BA /* JBRACKETT_HOMEWORK_1_1.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
